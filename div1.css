@@ -1,0 +1,30 @@
+.A{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+.B{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+.C{
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
